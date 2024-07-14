@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @o-cious
-- 🌱 I’m currently learning HTML
-
+- 🌱 I’m currently fluent HTML
+- 👩‍💻 I current work for rapid7
 
