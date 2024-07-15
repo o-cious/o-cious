@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @o-cious
 - 🌱 I’m currently fluent HTML, php, c, python and c#
 - 👩‍💻 I currently work for rapid7
-- 🛑 Malicious Programming since 2022
 - 🚷 Ex IpHack Co-Owner
-- 💻 2024 Google Bounty Rewarded Participant
+- 💻 Google Bounty Rewarded Participant 2024
+- 💉 Skeet.cc Anti-Aim programming since 2023
+- 🛑 Malicious Coding Since 2022
 
 https://www.rapid7.com/
